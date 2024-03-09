@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/yolov8_trade/
+train: /content/drive/MyDrive/yolov8_trade/train/images
+val: /content/drive/MyDrive/yolov8_trade/valid/images
+
+# Classes
+names:
+  0: sell123
+  1: buy123
