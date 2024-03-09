@@ -1,0 +1,1 @@
+# Trade_Pattern_Detection-YOLOv8
