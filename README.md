@@ -2,7 +2,7 @@
 
 ## This project explores the use of YOLO (You Only Look Once) for detecting candlestick patterns (Pattern 123) in stock market data.
 
-![descrição do GIF](images/pattern_detection.gif)
+<img src="images/pattern_detection.gif" width="600"/>
 
 ### Project Overview
 
